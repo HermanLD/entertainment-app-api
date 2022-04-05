@@ -1,0 +1,23 @@
+{
+  "name": "entertain-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Herman Dardon",
+  "license": "MIT",
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "eslint": "^8.12.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10",
+    "validator": "^13.7.0"
+  }
+}
